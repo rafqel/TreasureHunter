@@ -1,4 +1,4 @@
-<img width="50" src="https://github.com/user-attachments/assets/aad583bb-7c3a-451f-a490-83a063a0c014" /> Treasure Hunter <img width="50" src="https://github.com/user-attachments/assets/aad583bb-7c3a-451f-a490-83a063a0c014" />
+<img width="50" src="https://github.com/user-attachments/assets/430711df-28ae-4653-9f05-3105b1008a18" /> Treasure Hunter <img width="50" src="https://github.com/user-attachments/assets/430711df-28ae-4653-9f05-3105b1008a18" />
 ===============
 
 
@@ -12,10 +12,11 @@ The code is clean and modular.
 ### Feel free if you want to contribute.
 
 
+
 GAME MENU
 
-<img width="600" src="https://github.com/user-attachments/assets/e51d2161-d233-4c4b-b34f-f7035948916d" />
+<img width="600" src="https://github.com/user-attachments/assets/52466380-6f5f-4fb7-8d23-39ea54f4bda4" />
 
 GAME UI
 
-<img width="600" src="https://github.com/user-attachments/assets/4ebcb425-50e6-43ce-bf3c-b75c209ca88e" />
+<img width="600" src="https://github.com/user-attachments/assets/cd55dfb6-eb3c-4b91-86c2-9f459da47533" />
